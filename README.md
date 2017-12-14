@@ -1,5 +1,5 @@
-l1 = ['a','b','c']                    /*first input list <br>
-l2 = ['b','d']                        /*second input list <br>
-for i in range(0,len(l1)):            /*loop to check all elements <br>
-    if l1[i] not in l2:               /*check if the element of l1 is not present in l2 <br>
-        print(l1[i])                  /*print the element if above condition is satisfied <br>
+l1 = ['a','b','c']       &nbsp;             /*first input list <br>
+l2 = ['b','d']              &nbsp;          /*second input list <br>
+for i in range(0,len(l1)):    &nbsp;        /*loop to check all elements <br>
+    if l1[i] not in l2:   &nbsp;            /*check if the element of l1 is not present in l2 <br>
+        print(l1[i])      &nbsp;            /*print the element if above condition is satisfied <br>
